@@ -12,7 +12,7 @@ STARTREK.BAS_Clarity.txt<br>
 STARTREK_hsp3cl　・・・移植中テキスト(basic→hsp命令の置き換えをする)<br>
 startrek.hsp　・・・動作確認用ソース(実行しながらデバッグする)<br>
 startrek.exe　・・・実行ファイル(Windows用)<br>
-startrek2.bas　・・・A51Basic用のBASICプログラム
+startrek2.bas　・・・A51Basic用のBASICプログラム<br>
 https://github.com/kousoz80/A51Basic<br>
 https://github.com/kousoz80/A51Basic_android
 <br>
